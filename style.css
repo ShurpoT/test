@@ -1,0 +1,12 @@
+.text {
+    color: red;
+}
+
+.list {
+}
+
+.list-item {
+}
+.list-item:nth-child(2n) {
+    color: orange;
+}
