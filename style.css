@@ -9,3 +9,7 @@
 .list-item:nth-child(2n) {
     color: orange;
 }
+
+.main {
+    color: darkturquoise;
+}
