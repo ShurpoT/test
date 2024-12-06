@@ -13,3 +13,9 @@
 .main {
     color: darkturquoise;
 }
+
+.main__section {
+    padding: 100px 10px 150px;
+    margin: 0 auto;
+    border: 2px solid orangered;
+}
